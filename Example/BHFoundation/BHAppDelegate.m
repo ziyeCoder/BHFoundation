@@ -7,7 +7,7 @@
 //
 
 #import "BHAppDelegate.h"
-
+#import <BHTool.h>
 @implementation BHAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

@@ -1,0 +1,6 @@
+framework module BHFoundation {
+  umbrella header "BHFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
